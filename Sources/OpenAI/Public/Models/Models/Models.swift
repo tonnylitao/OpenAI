@@ -62,6 +62,7 @@ public extension Model {
     static let gpt5_1_chat_latest = "gpt-5.1-chat-latest"
 
     // GPT-5
+    static let gpt5_5 = "gpt-5.5"
 
     /// `gpt-5` OpenAI's best AI system with significant leap in intelligence, designed for logic and multi-step tasks with deep reasoning
     static let gpt5 = "gpt-5"

@@ -2410,6 +2410,7 @@ public enum Components {
             /// - Remark: Generated from `#/components/schemas/ImageGenTool/model`.
             @frozen public enum ModelPayload: String, Codable, Hashable, Sendable, CaseIterable {
                 case gptImage1 = "gpt-image-1"
+                case gptImage2 = "gpt-image-2"
             }
             /// The image generation model to use. Default: `gpt-image-1`.
             ///
